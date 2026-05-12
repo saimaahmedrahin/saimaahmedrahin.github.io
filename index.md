@@ -55,7 +55,7 @@ Full list: [Google Scholar ↗](https://scholar.google.com/citations?user=RW_IN9
 
 My research sits at the intersection of **Neuroscience**, **Immuno-Oncology**, and **Bioinformatics**. I focus on understanding brain-immune interactions during cancer immunotherapy using computational approaches — including analysis of fMRI brain activity patterns and modeling neuro-immune dynamics.
 
-I work under the supervision of **Dr. Brett A. McKinney** (Bioinformatics & Physics, TU) and **Dr. Wanwan Li** (CS & Mathematics, ORU), with acknowledged support from Dr. Ismail Abdulrashid (Data Analytics, TU) and Jerry McCoy, M.S. (Physics & Engineering Physics, TU).
+I work under the supervision of **Dr. Brett A. McKinney** (Bioinformatics & Physics, TU) and **Dr. Wanwan Li** (CS & Mathematics, ORU).
 
 ---
 
