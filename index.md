@@ -7,15 +7,15 @@ layout: home
 # Saima Ahmed Rahin
 
 Researcher  
-Department of *(your department)*, University of Tulsa
+Department of *(Computer Science)*, University of Tulsa
 
-**Research Interests:** Neuroscience · Immuno-Oncology · Bioinformatics · Computational Biology
+**Research Interests:** VR
 
 **Advisors:**
 - Dr. Brett A. McKinney — Bioinformatics & Physics, University of Tulsa
 - Dr. Wanwan Li — Computer Science & Mathematics, ORU
 
-[Email](mailto:your.email@utulsa.edu) &nbsp;|&nbsp;
+[Email](saa6627@utulsa.edu) &nbsp;|&nbsp;
 [Google Scholar](https://scholar.google.com/citations?user=RW_IN9QAAAAJ&hl=en) &nbsp;|&nbsp;
 [ResearchGate](https://www.researchgate.net/profile/Saima-Rahin) &nbsp;|&nbsp;
 [ORCID](https://orcid.org/0000-0003-4154-4699) &nbsp;|&nbsp;
@@ -51,9 +51,7 @@ Full list: [Google Scholar ↗](https://scholar.google.com/citations?user=RW_IN9
 
 ---
 
-## 🔬 Research
-
-My research sits at the intersection of **Neuroscience**, **Immuno-Oncology**, and **Bioinformatics**. I focus on understanding brain-immune interactions during cancer immunotherapy using computational approaches — including analysis of fMRI brain activity patterns and modeling neuro-immune dynamics.
+## 🔬 Research 
 
 I work under the supervision of **Dr. Brett A. McKinney** (Bioinformatics & Physics, TU) and **Dr. Wanwan Li** (CS & Mathematics, ORU).
 
