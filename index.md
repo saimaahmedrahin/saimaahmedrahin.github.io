@@ -25,8 +25,8 @@ Department of *(Computer Science)*, University of Tulsa
 
 ## 🎓 Education
 
-- ***(Your Degree)***, University of Tulsa *(year – present)*
-- ***(Previous Degree)***, *(University)* *(year – year)*
+- ***(Grad)***, University of Tulsa *(2023 – present)*
+- ***(UG)***, *(BRACU)* 
 
 ---
 
