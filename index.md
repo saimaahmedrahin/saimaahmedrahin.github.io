@@ -61,9 +61,9 @@ I work under the supervision of **Dr. Brett A. McKinney** (Bioinformatics & Phys
 
 ## 📬 Contact
 
-- **Email:** [your.email@utulsa.edu](mailto:your.email@utulsa.edu)
-- **Office:** *(Your office/building, University of Tulsa)*
-- **ORCID:** [0000-0003-4154-4699](https://orcid.org/0000-0003-4154-4699)
+- **Email:** [saa6627@utulsa.edu] 
+- **Office:** *(2035/Rayzor, University of Tulsa)*
+- **ORCID:** [0000-0003-4154-4699)
 
 ---
 
