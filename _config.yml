@@ -1,0 +1,7 @@
+title: Saima Ahmed Rahin
+description: Researcher | University of Tulsa
+url: "https://yourusername.github.io"
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
