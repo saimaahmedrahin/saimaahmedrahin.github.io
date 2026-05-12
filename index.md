@@ -7,13 +7,13 @@ layout: home
 # Saima Ahmed Rahin
 
 Researcher  
-Department of *(Computer Science)*, University of Tulsa
+Department of *(Game)*, University of Tulsa
 
 **Research Interests:** VR
 
 **Advisors:**
-- Dr. Brett A. McKinney — Bioinformatics & Physics, University of Tulsa
-- Dr. Wanwan Li — Computer Science & Mathematics, ORU
+- Dr. Brett A. McKinney - Bioinformatics & Physics, University of Tulsa
+- Dr. Wanwan Li - Computer Science & Mathematics, ORU
 
 [Email](saa6627@utulsa.edu) &nbsp;|&nbsp;
 [Google Scholar](https://scholar.google.com/citations?user=RW_IN9QAAAAJ&hl=en) &nbsp;|&nbsp;
@@ -32,20 +32,16 @@ Department of *(Computer Science)*, University of Tulsa
 
 ## 🔥 News
 
-- **[2025.XX]** *(Add your latest news here — paper accepted, conference attended, award, etc.)*
-- **[2025.XX]** *(Example: Presented poster at XYZ Conference)*
-- **[2025.XX]** *(Example: Started research with Dr. McKinney's lab)*
+- **[2026.May]** *(Poster accepted to Labroots)* 
 
 ---
 
 ## 📄 Publications
 
-***(Your Paper Title Here)***  
+***(AI Driven Healthcare)***  
 Saima Ahmed Rahin, Brett A. McKinney, Wanwan Li  
-*Conference / Journal Name*, Year  
-[[PDF]](#) [[Poster]](#)
-
-> 📌 *Add each new paper as a new block above. Copy the format and fill in the details.*
+*Virtual Event on Oncology Research by Labroots*, 2026  
+[[https://www.labroots.com/]](#)
 
 Full list: [Google Scholar ↗](https://scholar.google.com/citations?user=RW_IN9QAAAAJ&hl=en) · [ResearchGate ↗](https://www.researchgate.net/profile/Saima-Rahin)
 
