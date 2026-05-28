@@ -31,7 +31,7 @@ Department of *(Game)*, University of Tulsa
 ---
 
 ## 🔥 News
-
+- **[2026.May]** *(Got Featured in TU Website https://utulsa.edu/admissions/graduate-admission/ )* 
 - **[2026.May]** *(Poster accepted to Labroots)* 
 
 ---
